@@ -463,19 +463,19 @@ button:hover {
 }
 
 .service-item .second-service-icon {
-    background-image: url(../images/second-white-icon.png);
+    background-image: url(../images/revopro.jpg);
 }
 
 .service-item:hover .second-service-icon {
-    background-image: url(../images/second-main-icon.png);
+    background-image: url(../images/revopro.jpg);
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/third-white-icon.png);
+    background-image: url(../images/sculpture.jpg);
 }
 
 .service-item:hover .third-service-icon {
-    background-image: url(../images/third-main-icon.png);
+    background-image: url(../images/sculpture.jpg);
 }
 
 .service-item .fourth-service-icon {
